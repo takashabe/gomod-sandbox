@@ -1,0 +1,4 @@
+github.com/takashabe/gomod-sandbox/src/foo v0.0.0-20211207015801-90e44b4f5129 h1:Cgmy+XoY5uuDJdlc3uHjYdxtWd8HooSYVkn/KjkMvZY=
+github.com/takashabe/gomod-sandbox/src/foo v0.0.0-20211207015801-90e44b4f5129/go.mod h1:w/+XHPOG8RresSSF+Z5TXfcGocf8J8DVuDQDo7963ao=
+github.com/takashabe/gomod-sandbox/src/mod1 v0.0.0-20211207023307-3035425ff059 h1:gcQL7Fa8SG6Rtl6yunq90DPFixsVUGpeOUzQOHTvZto=
+github.com/takashabe/gomod-sandbox/src/mod1 v0.0.0-20211207023307-3035425ff059/go.mod h1:h7BuX6LvODqt44R86xZsL/2gTruyFjKDo/nhoYVyaHs=
